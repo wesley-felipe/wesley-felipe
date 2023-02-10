@@ -18,11 +18,10 @@ Atualmente sou estudante de desenvolvimento web na Trybe, uma Startup que está 
 
 <br>
 
-<!-- TECNOLOGIAS (VOU INSERIR EM BREVE)
+<!-- TECNOLOGIAS -->
 <div align="center">
--->
   
-<!-- ÍCONES (VOU INSERIR EM BREVE)  
+<!-- (VOU INSERIR EM BREVE)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
