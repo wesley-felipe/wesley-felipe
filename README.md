@@ -16,10 +16,11 @@ Atualmente sou estudante de desenvolvimento web na Trybe, uma Startup que está 
 
 <br>
 
-<!-- TECNOLOGIAS -->
+<!-- TECNOLOGIAS (VOU INSERIR EM BREVE)
 <div align="center">
-
-<!--   
+-->
+  
+<!-- ÍCONES (VOU INSERIR EM BREVE)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -37,8 +38,8 @@ Atualmente sou estudante de desenvolvimento web na Trybe, uma Startup que está 
   ![](https://visitor-badge.glitch.me/badge?page_id=wesley-felipe)
 </div>
 
-<!-- RASCUNHO -->
-<!--**wesley-felipe/wesley-felipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- RASCUNHO ABAIXO
+**wesley-felipe/wesley-felipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
