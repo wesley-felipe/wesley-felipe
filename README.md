@@ -1,8 +1,8 @@
 ## Boas-vindas ao meu perfil 😁
 
-Meu nome é Wesley Felipe e sou completamente apaixonado por tecnologia, atuando nessa área desde 2022 👨🏻‍💻
+Meu nome é Wesley Felipe e sou completamente apaixonado por programação, atuando nessa área desde 2022 👨🏻‍💻
 
-Atualmente sou acadêmico de ciência da computação e estudante de desenvolvimento web na Trybe, uma Startup que está revolucionando a educação e formando pessoas como eu para profissões do futuro. 🚀
+Atualmente sou acadêmico de ciência da computação na Unipê - Centro Universitário de João Pessoa e tenho trabalhado recentemente em projetos pessoais. 🚀
 
 <br>
 
