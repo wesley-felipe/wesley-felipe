@@ -1,10 +1,35 @@
-## Boas-vindas ao meu perfil 😁
+![image](https://github.com/wesley-felipe/wesley-felipe/assets/121470839/efbeb5eb-abeb-4c0a-8ebd-a16105d06627)
 
-Meu nome é Wesley Felipe e sou completamente apaixonado por programação, atuando nessa área desde 2022 👨🏻‍💻
+## Boas-vindas ao meu perfil! 😁
+
+Meu nome é Wesley Felipe e sou completamente apaixonado por programação, atuando nessa área desde 2022. 👨🏻‍💻
 
 Atualmente sou acadêmico de ciência da computação na Unipê - Centro Universitário de João Pessoa e tenho trabalhado recentemente em projetos pessoais para aprimorar minhas habilidades na área. 🚀
 
+Meu objetivo é desenvolver aplicações escaláveis, intuitivos para usuários idosos e de fácil manutenção, que forneçam sempre a melhor experiência de usuário possível. 
+
+Estou constantemente me aprofundando em tecnologias, linguagens, bibliotecas, frameworks, API's e bancos de dados utilizados, para encontrar as melhores soluções para os problemas em questão.
+
 <br>
+
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-light-mode-only" width="360px"/>
+
+<br>
+
+- 🎓 Cursando Bacharelado em **Ciência da computação**: 2/8;
+- 🔭 Estou estudando para me tornar um **Dev Full Stack**;
+- 🦀 Atualmente estou construindo uma Landing Page responsiva que utiliza HTML, CSS, SCSS/SASS, Javascript, Bootstrap, React, Typescript, Python, Node.js, API do Google, API do Whatsapp, etc;
+- 💬 Me pergunte sobre **API's**;
+- 🚀 Sempre disposto a **ajudar** outros desenvolvedores.
+
+<br>
+
+## 🎯 Metas Futuras
+
+- 🧠 Estudar os fundamentos de **Docker, AWS, C# e .net**;
+- 🌟 Compartilhar meu conhecimento e experiências, ensinando e orientando outras pessoas na comunidade de tecnologia;
+- 🤖 Construir um projeto de alto impacto do zero que atinja mais de 1M de visualizações e que influencie mais pessoas para o mundo da tecnologia.
 
 <!-- GITHUB STATUS -->
 <div align="center">
