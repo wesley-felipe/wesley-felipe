@@ -1,6 +1,7 @@
 ![image](https://github.com/wesley-felipe/wesley-felipe/assets/121470839/efbeb5eb-abeb-4c0a-8ebd-a16105d06627)
 
-## Boas-vindas ao meu perfil! 😁
+<p align="center"> 
+Boas-vindas ao meu perfil! 😁
 
 Meu nome é Wesley Felipe e sou completamente apaixonado por programação, atuando nessa área desde 2022. 👨🏻‍💻
 
@@ -9,6 +10,9 @@ Atualmente sou acadêmico de ciência da computação na Unipê - Centro Univers
 Meu objetivo é desenvolver aplicações escaláveis, intuitivos para usuários idosos e de fácil manutenção, que forneçam sempre a melhor experiência de usuário possível. 
 
 Estou constantemente me aprofundando em tecnologias, linguagens, bibliotecas, frameworks, API's e bancos de dados utilizados, para encontrar as melhores soluções para os problemas em questão.
+</p>
+
+##
 
 <br>
 
@@ -23,6 +27,7 @@ Estou constantemente me aprofundando em tecnologias, linguagens, bibliotecas, fr
 - 💬 Me pergunte sobre **API's**;
 - 🚀 Sempre disposto a **ajudar** outros desenvolvedores.
 
+<br>
 <br>
 <br>
 
