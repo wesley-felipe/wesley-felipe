@@ -1,7 +1,9 @@
 ![image](https://github.com/wesley-felipe/wesley-felipe/assets/121470839/efbeb5eb-abeb-4c0a-8ebd-a16105d06627)
 
-<p align="center"> 
+##
+
 Boas-vindas ao meu perfil! 😁
+<p align="center"> 
 
 Meu nome é Wesley Felipe e sou completamente apaixonado por programação, atuando nessa área desde 2022. 👨🏻‍💻
 
@@ -19,6 +21,7 @@ Estou constantemente me aprofundando em tecnologias, linguagens, bibliotecas, fr
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px"/>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-light-mode-only" width="360px"/>
 
+<br>
 <br>
 
 - 🎓 Cursando Bacharelado em **Ciência da computação**: 2/8;
