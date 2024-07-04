@@ -1,8 +1,6 @@
 ![image](https://github.com/wesley-felipe/wesley-felipe/assets/121470839/efbeb5eb-abeb-4c0a-8ebd-a16105d06627)
 
-##
-
-Boas-vindas ao meu perfil! 😁
+## Boas-vindas ao meu perfil! 😁
 <p align="center"> 
 
 Meu nome é Wesley Felipe e sou completamente apaixonado por programação, atuando nessa área desde 2022. 👨🏻‍💻
