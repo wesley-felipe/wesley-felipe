@@ -129,7 +129,6 @@ Estou constantemente me aprofundando em tecnologias, linguagens, bibliotecas, fr
 [![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#)
 </details>
 
-
 <details open>
 <summary><b>⛈️ Database</b></summary>
 <br>
@@ -159,7 +158,6 @@ Estou constantemente me aprofundando em tecnologias, linguagens, bibliotecas, fr
 <summary><b>🖥️ Operating Systems</b></summary>
 <br>
   
-[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](#)
 </details>
