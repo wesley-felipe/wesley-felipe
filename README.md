@@ -5,11 +5,9 @@
 
 Meu nome é Wesley Felipe e sou completamente apaixonado por programação, atuando nessa área desde 2022. 👨🏻‍💻
 
-Atualmente sou acadêmico de ciência da computação na Unipê - Centro Universitário de João Pessoa e tenho trabalhado recentemente em projetos pessoais para aprimorar minhas habilidades na área. 🚀
+Sou acadêmico de ciência da computação na Unipê - Centro Universitário de João Pessoa e tenho trabalhado recentemente em projetos pessoais para aprimorar minhas habilidades na área. 🚀
 
 Meu objetivo é desenvolver aplicações escaláveis, intuitivos para usuários idosos e de fácil manutenção, que forneçam sempre a melhor experiência de usuário possível. 
-
-Estou constantemente me aprofundando em tecnologias, linguagens, bibliotecas, frameworks, API's e bancos de dados utilizados, para encontrar as melhores soluções para os problemas em questão.
 </p>
 
 ##
