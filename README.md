@@ -1,4 +1,4 @@
-https://github.com/bush1D3v![image](https://github.com/wesley-felipe/wesley-felipe/assets/121470839/efbeb5eb-abeb-4c0a-8ebd-a16105d06627)
+![image](https://github.com/wesley-felipe/wesley-felipe/assets/121470839/efbeb5eb-abeb-4c0a-8ebd-a16105d06627)
 
 ## Boas-vindas ao meu perfil! 😁
 <p align="center"> 
