@@ -49,9 +49,7 @@ Meu objetivo é desenvolver aplicações escaláveis, intuitivos para usuários 
 <br>
 
 <!-- TECNOLOGIAS -->
-<div align = "center">
-
-<h2 align="center">🛠️ Conhecimentos na área </h2>
+<h2>🛠️ Conhecimentos na área </h2>
 
 <details open>
 <summary><b>📄 Markup language</b></summary>
