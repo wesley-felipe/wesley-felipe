@@ -43,9 +43,9 @@ Estou constantemente me aprofundando em tecnologias, linguagens, bibliotecas, fr
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesley-felipe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
 <!-- PAINEL DE LINGUAGENS MAIS USADAS (VOU INSERIR EM BREVE) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley-felipe&layout=compact&langs_count=10&theme=dark"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley-felipe&layout=compact&langs_count=10&theme=dark"/>
   
-  TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula 
+  TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
 
 <br>
