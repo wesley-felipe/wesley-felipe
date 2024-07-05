@@ -1,4 +1,4 @@
-![image](https://github.com/wesley-felipe/wesley-felipe/assets/121470839/efbeb5eb-abeb-4c0a-8ebd-a16105d06627)
+https://github.com/bush1D3v![image](https://github.com/wesley-felipe/wesley-felipe/assets/121470839/efbeb5eb-abeb-4c0a-8ebd-a16105d06627)
 
 ## Boas-vindas ao meu perfil! 😁
 <p align="center"> 
@@ -42,18 +42,138 @@ Estou constantemente me aprofundando em tecnologias, linguagens, bibliotecas, fr
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesley-felipe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
-<!-- PAINEL DE LINGUAGENS MAIS USADAS (VOU INSERIR EM BREVE)  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley-felipe&layout=compact&langs_count=10&theme=dark"/> -->
+<!-- PAINEL DE LINGUAGENS MAIS USADAS (VOU INSERIR EM BREVE) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley-felipe&layout=compact&langs_count=10&theme=dark"/>
   
-  <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+  TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula 
 </div>
 
 <br>
 
 <!-- TECNOLOGIAS -->
-<div align="center">
+<div align = "center">
+
+<h2 align="center">🛠️ Conhecimentos na área </h2>
+
+<details open>
+<summary><b>📄 Markup language</b></summary>
+<br>
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+</details>
+
+<details open>
+<summary><b>⭐ Style languages</b></summary>
+<br>
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+[![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
+</details>
+
+<details open>
+<summary><b>🧑‍💻 Programming Languages</b></summary>
+<br>
+
+[![Fortran](https://img.shields.io/badge/Fortran-734F96?logo=fortran&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+</details>
+
+<details open>
+<summary><b>💼 Libraries</b></summary>
+<br>
+
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](#)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+[![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=fff)](#)
+</details>
+
+<details open>
+<summary><b>🖼️ Frameworks</b></summary>
+<br>
+
+[![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](#)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
+[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+</details>
+
+<details open>
+<summary><b>📺 Execution Environment</b></summary>
+<br>
   
-<!-- (VOU INSERIR EM BREVE)  
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+</details>
+
+<details open>
+<summary><b>☁️ Cloud System</b></summary>
+<br>
+  
+[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
+</details>
+
+<details open>
+<summary><b>🔎 Platform for Data Science</b></summary>
+<br>
+  
+[![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](#)
+</details>
+
+<details open>
+<summary><b>🤝 Collaboration Tools</b></summary>
+<br>
+
+[![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoftteams&logoColor=fff&)](#)
+[![Slack Badge](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)
+[![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#)
+</details>
+
+
+<details open>
+<summary><b>⛈️ Database</b></summary>
+<br>
+  
+[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
+</details>
+
+<details open>
+<summary><b>🎨 Design</b></summary>
+<br>
+
+[![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=Adobe%20Photoshop&logoColor=black)](#)
+[![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobe%20illustrator&logoColor=white)](#)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
+</details>
+
+<details open>
+<summary><b>💻 IDE/Code Editors</b></summary>
+<br>
+  
+[![PyCharm](https://img.shields.io/badge/PyCharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green)](#)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](#)
+</details>
+
+<details open>
+<summary><b>🖥️ Operating Systems</b></summary>
+<br>
+  
+[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](#)
+</details>
+
+<details open>
+<summary><b>🔖 Version Control</b></summary>
+<br>
+
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+</details>
+
+
+<!-- (VOU INSERIR MAIS EM BREVE)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -63,6 +183,9 @@ Estou constantemente me aprofundando em tecnologias, linguagens, bibliotecas, fr
 </div>
 
 <!-- REDES SOCIAIS -->
+
+<h2 align="center">📫 Conecte-se Comigo</h2>
+
 <div align="center">
   <a href="https://instagram.com/wesleydsfelipe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wesleydsfelipe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
@@ -72,16 +195,4 @@ Estou constantemente me aprofundando em tecnologias, linguagens, bibliotecas, fr
 </div>
 
 <!-- RASCUNHO ABAIXO
-**wesley-felipe/wesley-felipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**wesley-felipe/wesley-felipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
