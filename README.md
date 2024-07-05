@@ -7,7 +7,7 @@ Meu nome é Wesley Felipe e sou completamente apaixonado por programação, atua
 
 Sou acadêmico de ciência da computação na Unipê - Centro Universitário de João Pessoa e tenho trabalhado recentemente em projetos pessoais para aprimorar minhas habilidades na área. 🚀
 
-Meu objetivo é desenvolver aplicações escaláveis, intuitivos para usuários idosos e de fácil manutenção, que forneçam sempre a melhor experiência de usuário possível. 
+Meu objetivo é desenvolver aplicações escaláveis, intuitivos para usuários idosos e de fácil manutenção, que forneçam sempre a melhor experiência de usuário possível. 🏆
 </p>
 
 ##
@@ -22,7 +22,7 @@ Meu objetivo é desenvolver aplicações escaláveis, intuitivos para usuários 
 
 - 🎓 Cursando Bacharelado em **Ciência da computação**: 2/8;
 - 🔭 Estou estudando para me tornar um **Dev Full Stack**;
-- 🦀 Atualmente estou construindo uma **Landing Page** responsiva que utiliza HTML, CSS, SCSS/SASS, Javascript, Bootstrap, React, Typescript, Python, Node.js, API do Google, API do Whatsapp, etc;
+- 💡 Atualmente estou construindo uma **Landing Page** responsiva que utiliza HTML, CSS, SCSS/SASS, Javascript, Bootstrap, React, Typescript, Python, Node.js, API do Google, API do Whatsapp, etc;
 - 💬 Me pergunte sobre **habilidades Front-end**;
 - 🚀 Sempre disposto a **ajudar** outros desenvolvedores.
 
