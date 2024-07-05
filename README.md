@@ -37,8 +37,8 @@ Meu objetivo é desenvolver aplicações escaláveis, intuitivos para usuários 
 - 🤖 Construir um projeto de alto impacto do zero que atinja mais de 1M de visualizações e que influencie mais pessoas para o mundo da tecnologia.
 
 <!-- GITHUB STATUS -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesley-felipe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<!-- <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesley-felipe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
 
 <!-- PAINEL DE LINGUAGENS MAIS USADAS (VOU INSERIR EM BREVE) -->
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley-felipe&layout=compact&langs_count=10&theme=dark"/>
