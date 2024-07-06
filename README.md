@@ -19,6 +19,7 @@ Meu objetivo é desenvolver aplicações escaláveis, intuitivos para usuários 
 
 <br>
 <br>
+<br>
 
 - 🎓 Cursando Bacharelado em **Ciência da computação**: 2/8;
 - 🔭 Estou estudando para me tornar um **Dev Full Stack**;
