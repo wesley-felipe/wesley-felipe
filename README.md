@@ -8,6 +8,8 @@ Meu nome é Wesley Felipe e sou completamente apaixonado por programação, atua
 Sou acadêmico de ciência da computação na Unipê - Centro Universitário de João Pessoa e tenho trabalhado recentemente em projetos pessoais para aprimorar minhas habilidades na área. 🚀
 
 Meu objetivo é desenvolver aplicações escaláveis, intuitivas para usuários idosos e de fácil manutenção, que forneçam sempre a melhor experiência de usuário possível. 🏆
+
+Um dos meus projetos: https://semprelimpo.vercel.app/
 </p>
 
 ##
