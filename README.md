@@ -23,7 +23,7 @@ Um dos meus projetos: https://semprelimpo.vercel.app/
 <br>
 <br>
 
-- 🎓 Cursando Bacharelado em **Ciência da computação**: 3/8;
+- 🎓 Cursando Bacharelado em **Ciência da computação**: 4/8;
 - 🔭 Estou estudando para me tornar um **Dev Full Stack**;
 - 💡 Atualmente estou construindo uma **Landing Page** responsiva que utiliza HTML, CSS, SCSS/SASS, Javascript, Bootstrap, React, Typescript, Python, Node.js, API do Google, API do Whatsapp, etc;
 - 💬 Me pergunte sobre **habilidades Front-end**;
