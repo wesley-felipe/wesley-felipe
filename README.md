@@ -9,7 +9,10 @@ Sou acadêmico de ciência da computação na Unipê - Centro Universitário de 
 
 Meu objetivo é desenvolver aplicações escaláveis, intuitivas para usuários idosos e de fácil manutenção, que forneçam sempre a melhor experiência de usuário possível. 🏆
 
-Um dos meus projetos: https://semprelimpo.site ou https://semprelimpo.vercel.app/
+Uns dos meus projetos:  
+
+- https://semprelimpo.vercel.app/ ou https://semprelimpo.site 
+- https://casamento-jes-e-wes.vercel.app/ 
 </p>
 
 ##
