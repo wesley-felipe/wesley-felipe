@@ -9,7 +9,7 @@ Sou acadêmico de ciência da computação na Unipê - Centro Universitário de 
 
 Meu objetivo é desenvolver aplicações escaláveis, intuitivas para usuários idosos e de fácil manutenção, que forneçam sempre a melhor experiência de usuário possível. 🏆
 
-Sou estagiário de desenvolvimento na Itecsa Tecnologia e Servicos SA. Estou muito satisfeito por fazer parte desse time. 🚀
+Sou estagiário de desenvolvimento na Itecsa Tecnologia e Servicos SA. Estou muito satisfeito por fazer parte desse time. 💡
 
 Uns dos meus projetos:  
 
