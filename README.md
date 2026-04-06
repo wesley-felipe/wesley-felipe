@@ -32,7 +32,7 @@ Uns dos meus projetos:
 - 🎓 Cursando Bacharelado em **Ciência da computação**: 5/8;
 - 🔭 **Dev Full Stack**;
 - 💡 Atualmente estou construindo um **aplicativo Android, IOS, macOS, Windows, etc;** totalmente responsivo, utilizando .Net MAUI;
-- 💬 Me pergunte sobre **criação de sites, landind pages, aplicativos, etc.**;
+- 💬 Me pergunte sobre **criação de sites, landind pages, apps, etc.**;
 - 🚀 Sempre disposto a **ajudar** outros desenvolvedores.
 
 <br>
