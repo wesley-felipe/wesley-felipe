@@ -14,7 +14,8 @@ Sou estagiário de desenvolvimento na Itecsa Tecnologia e Servicos SA. Estou mui
 Uns dos meus projetos:  
 
 - https://semprelimpo.vercel.app/ ou https://semprelimpo.site 
-- https://casamento-jes-e-wes.vercel.app/ 
+- https://casamento-jes-e-wes.vercel.app/ (backend desabilitado definitivamente, porque o evento já ocorreu)
+- https://linkaeventos.vercel.app/ (backend desabilitado temporariamente)
 </p>
 
 ##
@@ -28,10 +29,10 @@ Uns dos meus projetos:
 <br>
 <br>
 
-- 🎓 Cursando Bacharelado em **Ciência da computação**: 4/8;
-- 🔭 Estou estudando para me tornar um **Dev Full Stack**;
-- 💡 Atualmente estou construindo uma **Landing Page** responsiva que utiliza HTML, CSS, SCSS/SASS, Javascript, Bootstrap, React, Typescript, Python, Node.js, API do Google, API do Whatsapp, etc;
-- 💬 Me pergunte sobre **habilidades Front-end**;
+- 🎓 Cursando Bacharelado em **Ciência da computação**: 5/8;
+- 🔭 **Dev Full Stack**;
+- 💡 Atualmente estou construindo um **aplicativo Android, IOS, macOS, Windows, etc;** totalmente responsivo, utilizando .Net MAUI;
+- 💬 Me pergunte sobre **criação de sites, landind pages, aplicativos, etc.**;
 - 🚀 Sempre disposto a **ajudar** outros desenvolvedores.
 
 <br>
@@ -40,7 +41,7 @@ Uns dos meus projetos:
 
 ## 🎯 Metas Futuras
 
-- 🧠 Estudar os fundamentos de **Docker, AWS, C# e .net**;
+- 🧠 Criar aplicações SaaS e E-commerces utilizando princípios de **Cloud (AWS), Linguagens/Frameworks (Node.js, Express, NestJS), Web (Next.js), APIs e Integrações (Stripe, Firebase Authentication e SendGrid) e DNS/Proteção (Cloudflare)**
 - 🌟 Compartilhar meu conhecimento e experiências, ensinando e orientando outras pessoas na comunidade de tecnologia;
 - 🤖 Construir um projeto de alto impacto do zero que atinja mais de 1M de visualizações e que influencie mais pessoas para o mundo da tecnologia.
 
@@ -64,7 +65,9 @@ Uns dos meus projetos:
 <br>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![XML](https://img.shields.io/badge/XML-8A2BE2?style=for-the-badge)&nbsp;
 </details>
+
 
 <details open>
 <summary><b>⭐ Style languages</b></summary>
@@ -78,10 +81,11 @@ Uns dos meus projetos:
 <summary><b>🧑‍💻 Programming Languages</b></summary>
 <br>
 
-[![Fortran](https://img.shields.io/badge/Fortran-734F96?logo=fortran&logoColor=fff)](#)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![Fortran](https://img.shields.io/badge/Fortran-734F96?logo=fortran&logoColor=fff)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 </details>
 
 <details open>
@@ -137,6 +141,7 @@ Uns dos meus projetos:
 <summary><b>⛈️ Database</b></summary>
 <br>
   
+[PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
 </details>
 
@@ -154,6 +159,7 @@ Uns dos meus projetos:
 <summary><b>💻 IDE/Code Editors</b></summary>
 <br>
   
+[Visual Studio](https://img.shields.io/badge/Visual%20Studio%202013-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 [![PyCharm](https://img.shields.io/badge/PyCharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green)](#)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](#)
 </details>
@@ -171,6 +177,7 @@ Uns dos meus projetos:
 <br>
 
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[SVN](https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white)
 </details>
 
 
