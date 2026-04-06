@@ -141,7 +141,7 @@ Uns dos meus projetos:
 <summary><b>⛈️ Database</b></summary>
 <br>
   
-[PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
 </details>
 
@@ -159,7 +159,7 @@ Uns dos meus projetos:
 <summary><b>💻 IDE/Code Editors</b></summary>
 <br>
   
-[Visual Studio](https://img.shields.io/badge/Visual%20Studio%202013-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio%202013-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 [![PyCharm](https://img.shields.io/badge/PyCharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green)](#)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](#)
 </details>
@@ -177,7 +177,7 @@ Uns dos meus projetos:
 <br>
 
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
-[SVN](https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white)
+![SVN](https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white)
 </details>
 
 
